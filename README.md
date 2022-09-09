@@ -25,4 +25,8 @@ Set up Visual studio code- Download Extensions VS Code Icons, Live server and Pr
 ### link to live site on GitHub Pages
 Link: https://github.com/nyarindas/nyarindasprofile.git
 
+### support and contact details
+Should you require any support- kindly email: nyarindas@gmail.com 
+
+
 ### copyright and license information
