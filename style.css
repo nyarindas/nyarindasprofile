@@ -11,7 +11,7 @@
 
 .main{
     width: 100%;
-    background: url(images/background\ 4.jpg);
+    background: url(images/background\ 6.jpg);
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -35,7 +35,7 @@
 }
 
 .logo{
-    color:rgb(47, 0, 255);
+    color:rgb(226, 101, 174);
     Font-size: 40px;
     font-family: Arial;
     padding-left: 20px;
@@ -68,7 +68,7 @@ ul li{
 
 ul li a{
     text-decoration: none;
-    color:rgb(47, 0, 255)
+    color:white;
     font-family: Arial;
     font-weight: bold
     transition: 0.4s;
