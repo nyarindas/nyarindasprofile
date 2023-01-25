@@ -1,13 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-
-
-
 }
-
-
-
 
 .main{
     width: 100%;
@@ -15,23 +9,19 @@
     background-position: center;
     background-size: cover;
     height: 109vh;
-
-
 }
 
 .navbar{
     width: 1200px;
     height; 75px;
     margin;  align-self: auto;
-
-    
+  
 }
 
 .icon{
     width: 200px;
     float: left;
     height: 70px;
-    
 }
 
 .logo{
@@ -41,8 +31,6 @@
     padding-left: 20px;
     float: left;
     padding-top: 10px;
-
-
 }
 
 .menu{
@@ -63,7 +51,6 @@ ul li{
     margin-left: 60px;
     margin-top: 27px;
     font-size: 14px;
-    
 }
 
 ul li a{
@@ -72,9 +59,6 @@ ul li a{
     font-family: Arial;
     font-weight: bold;
     transition: 0.4s;
-
-
-
 }
 
 ul li a:hover{
@@ -87,8 +71,7 @@ ul li a:hover{
     height: auto;
     margin: auto;
     color: white;
-    position: relative;
-    
+    position: relative; 
 
 }
 
